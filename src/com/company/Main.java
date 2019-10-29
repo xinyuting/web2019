@@ -6,7 +6,9 @@ public class Main {
 	// write your code here
         int i=1;
         if(i==1){
-            System.out.println("jj");
+            System.out.println("hahahah");
+            System.out.println("hahahah");
+            System.out.println("hahahah");
         }
     }
 }
