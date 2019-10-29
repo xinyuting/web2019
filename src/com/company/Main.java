@@ -7,7 +7,7 @@ public class Main {
         int i=1;
         if(i==1){
             System.out.println("hahahah");
-            System.out.println("hahahah");
+
             System.out.println("hahahah");
         }
     }
